@@ -11,5 +11,4 @@ print(dict2["st_rollNo"])                #gives error if key is not found
 print(dict2.get("st_rollNo"))            #saves you from getting error if key not found
 
 print(dict2.keys())
-
 print(dict2.values())
